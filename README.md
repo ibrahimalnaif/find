@@ -1,8 +1,8 @@
 # find
 Find a file or directory in Linux
 
- *\description: this program is used to search for items inside a directory
- *\usage: ./myfind <file or directory> [ <action> ] ...
+ ##description: this program is used to search for items inside a directory
+ ##usage: ./myfind <file or directory> [ <action> ] ...
  *	Available options are:
  *		 -type   [bcdpfls]...............Search for specific Formats
  *		 -path   [path to search i.......Search in a specific path
